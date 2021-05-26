@@ -1,2 +1,2 @@
-# Wit_AI_Speech_To_Text
+# Wit AI Speech To Text
 Use api wit.ai to recognize text in audio recording
